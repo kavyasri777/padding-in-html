@@ -1,0 +1,19 @@
+div{
+    
+    
+    padding: 100px 200px 150px 250px;
+
+    padding-right: 50px;
+    padding-left: 30px;
+    padding-bottom: 60px;
+    padding-top:40px;
+    width: 300;
+    
+    border:solid 5px black;
+
+
+    /*padding: 10px 20px 10px 15px;
+    width: 150px;
+    border: solid 5px royalblue*/
+    
+}
